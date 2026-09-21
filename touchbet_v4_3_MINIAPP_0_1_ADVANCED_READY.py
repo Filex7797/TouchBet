@@ -35,7 +35,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 # CONFIG
 # ==========================
 
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8943877508:AAETjHSPgDRxLgvlPx1Wd_8O8fHCEBLgi2A"
 ADMIN_ID = 7723458412
 LOG_GROUP_ID = -1003513550748
 DATA_DIR = (os.getenv("DATA_DIR", "/app/data") or "/app/data").strip()
